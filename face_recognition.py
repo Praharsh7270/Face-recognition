@@ -1,13 +1,7 @@
-####################################################
-# Modified by Nazmi Asri                           #
-# Original code: http://thecodacus.com/            #
-# All right reserved to the respective owner       #
-####################################################
 
-# Import OpenCV2 for image processing
 import cv2
 
-# Import numpy for matrices calculations
+
 import numpy as np
 
 import os 
@@ -17,7 +11,7 @@ def assure_path_exists(path):
     if not os.path.exists(dir):
         os.makedirs(dir)
 
-# Create Local Binary Patterns Histograms for face recognization
+
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 assure_path_exists("trainer/")
