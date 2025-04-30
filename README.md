@@ -36,7 +36,7 @@ To run this project, you need to install the required libraries.
    pip install pillow
    ```
 
-5. **Download Haarcascades XML**: Make sure the `haarcascade_frontalface_default.xml` file is available. You can download it from [here](https://github.com/opencv/opencv/tree/master/data/haarcascades).
+
 
 ## Usage
 
