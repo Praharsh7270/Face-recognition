@@ -86,8 +86,7 @@ To run this project, you need to install the required libraries.
 
 ## License
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
+This project is open-source 
 ---
 
 Let me know if you need any adjustments or additions to the README!
